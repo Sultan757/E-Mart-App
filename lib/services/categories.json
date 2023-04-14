@@ -1,0 +1,86 @@
+{
+    "categories":[
+        {
+        "name" : "Women Dress",
+        "subcategories":[
+          "Wedding & Event",      
+          "Tops",      
+          "Makeup & Beauty",      
+          "Watches"      
+        ]
+    },
+    {
+        "name" : "Men CLothing & Fashion",
+        "subcategories":[
+          "Formal Dresses",      
+          "Sports Watches",      
+          "Track suit",      
+          "Hoodies"      
+        ]
+    },
+    {
+        "name" : "Computer & Accessories",
+        "subcategories":[
+          "Wireless Keyboard",      
+          "500 GB HDD",      
+          "256 SSD",      
+          "Gaming PC"      
+        ]
+    },
+    {
+        "name" : "Automobile",
+        "subcategories":[
+          "Rang Rover",      
+          "Audi",      
+          "Marcedes Benz",      
+          "Mehran"      
+        ]
+    },
+    {
+        "name" : "Kids and Toys",
+        "subcategories":[
+          "Cycle",      
+          "Table",      
+          "Doctor tools",      
+          "kid t.shirts"      
+        ]
+    },
+    {
+        "name" : "Sports",
+        "subcategories":[
+          "Cricket",      
+          "Football",      
+          "Hockey",      
+          "Volley ball"      
+        ]
+    },
+    {
+        "name" : "Jewelry",
+        "subcategories":[
+          "Gold Necklace",      
+          "Ear Rings",      
+          "Tops",      
+          "Payal"      
+        ]
+    },
+    
+    {
+        "name" : "Cellphone & Tabs",
+        "subcategories":[
+          "Weddign & Event",      
+          "Tops",      
+          "Makeup & Beauty",      
+          "Watches"      
+        ]
+    },
+    {
+        "name" : "Furniture",
+        "subcategories":[
+          "Almirah",      
+          "Sofa",      
+          "Bed",      
+          "Table"      
+        ]
+    }
+    ]
+}

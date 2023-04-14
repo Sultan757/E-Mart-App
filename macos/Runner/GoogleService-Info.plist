@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>739851093306-lut1pgfb8hc9i3i8an24l511elsrgc5a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.739851093306-lut1pgfb8hc9i3i8an24l511elsrgc5a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAgtWyO9v2qQ9T8L477433tOOP2d3tW_FM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>739851093306</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.emartApp</string>
+	<key>PROJECT_ID</key>
+	<string>emart-app-38a95</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emart-app-38a95.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:739851093306:ios:11007c3726bd2109cdfc03</string>
+</dict>
+</plist>
